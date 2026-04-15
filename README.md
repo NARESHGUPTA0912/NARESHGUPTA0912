@@ -14,10 +14,12 @@
 ---
 
 ## 🛠️ Tech Stack (Learning)
-
-* 💻 Java | Spring Boot
-* 🌐 HTML | CSS | JavaScript | React
-* 🗄️ MySQL
+* 💻 Java | C | Python | JavaScript
+* 🌐 HTML | CSS | JavaScript | Tailwind | React
+* 🌐 SpringBoot | Hibernate | Express.js | Node.js
+* 🗄️ MySQL | ORACLE | MongoDB
+* 🔧 VS Code | Postman | Git/Github | Eclipse | Netbeans | STS
+* 🚀 Vercel | Render | AWS
 
 ---
 
@@ -26,13 +28,9 @@
 * 📧 Email: [nareshgupta0912@gmail.com](mailto:nareshgupta0912@gmail.com)
 
 ## Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-gupta-86b6a9343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-gupta-86b6a9343)        [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nareshgupta0912)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nareshgupta0912)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/nareshgupta0912)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NARESHGUPTA0912)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/nareshgupta0912)        [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NARESHGUPTA0912)
 
 ---
 
