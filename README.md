@@ -94,7 +94,9 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NARESHGUPTA0912&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NARESHGUPTA0912&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
