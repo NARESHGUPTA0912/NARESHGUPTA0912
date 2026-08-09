@@ -426,6 +426,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=NARESHGUPTA0912&them
 <!-- ========================================================= -->
 <!--                    CONNECT SECTION                        -->
 <!-- ========================================================= -->
+---
 
 # 🌐 Connect With Me
 
@@ -448,6 +449,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=NARESHGUPTA0912&them
 </a>
 
 </p>
+---
 
 <!-- ========================================================= -->
 <!--                    DEV QUOTE                              -->
@@ -460,6 +462,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=NARESHGUPTA0912&them
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </p>
+---
 
 <!-- ========================================================= -->
 <!--                        FOOTER                             -->
