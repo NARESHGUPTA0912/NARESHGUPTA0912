@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-🎓 MCA Student • ☕ Java Full Stack Developer • 🚀 Problem Solver
+🎓 MCA Graduate • ☕ Java Full Stack Developer • 🚀 Problem Solver
 </h3>
 
 <p align="center">
@@ -46,7 +46,7 @@
 <img align="right" alt="Coding" width="340"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I'm **Naresh Gupta**, i want to become a passionate **Java Full Stack Developer** with a strong interest in designing scalable applications and solving real-world problems.
+I'm **Naresh Gupta**, i am a passionate **Java Full Stack Developer** with a strong interest in designing scalable applications and solving real-world problems.
 
 I enjoy transforming ideas into software that is clean, efficient, and user-friendly while continuously improving my knowledge of modern backend technologies.
 
