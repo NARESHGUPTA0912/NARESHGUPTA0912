@@ -53,7 +53,6 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
 ### 🚀 Highlights
 
 - ☕ Java Full Stack Developer
-- MERN Developer 
 - 🎓 MCA Graduate
 - 🤖 Creator of **PrepGenius AI**
 - 📝 Built **NoteCraft** using Java Swing
