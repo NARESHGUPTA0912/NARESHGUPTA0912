@@ -94,6 +94,7 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
 
 🗄️ Database:
   - MySQL
+  - Oracle DB
   - MongoDB
 
 ☁️ Tools:
@@ -103,6 +104,7 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
   - AWS
   - Vercel
   - Render
+  - Swagger 
 
 🧠 Currently Learning:
   - Spring Security
