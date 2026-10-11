@@ -112,7 +112,7 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
   - System Design
 
 🔥 Problem Solving:
-  - 300+ LeetCode Problems
+  - 400+ LeetCode Problems
   - Daily DSA Practice
 
 🎯 Career Goal:
