@@ -303,6 +303,7 @@ Comprehensive Java concepts and Data Structures & Algorithms repository for inte
 ### Includes
 
 - Arrays
+- Sorting & Searching 
 - Strings
 - Recursion
 - Linked List
