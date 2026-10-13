@@ -113,6 +113,7 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
 
 🔥 Problem Solving:
   - 400+ LeetCode Problems
+  - 900+ Leetcode Submissions 
   - Daily DSA Practice
 
 🎯 Career Goal:
