@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-🎓 MCA Graduate • ☕ Java Full Stack Developer • 🚀 Problem Solver
+🎓 MCA Graduate • ☕ Java Full Stack Developer • 🚀 Problem Solver 🖥️ MERN Stack Developer 
 </h3>
 
 <p align="center">
