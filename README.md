@@ -57,7 +57,7 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
 - 🤖 Creator of **PrepGenius AI**
 - 📝 Built **NoteCraft** using Java Swing
 - 🌸 Developed **Floréa Flower Studio**
-- 🔥 Solved **300+ LeetCode Problems**
+- 🔥 Solved **400+ LeetCode Problems**
 - 🌱 Learning **System Design & Microservices**
 - 💡 Passionate about Backend Development
 - 🤝 Open to Collaboration
