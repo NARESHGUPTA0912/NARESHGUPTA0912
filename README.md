@@ -56,7 +56,7 @@ I enjoy transforming ideas into software that is clean, efficient, and user-frie
 - 🎓 MCA Graduate
 - 🤖 Creator of **PrepGenius AI**
 - 📝 Built **NoteCraft** using Java Swing
-- 🌸 Developed **Floréa Flower Studio**
+- 🌸 Developed a **Floréa Flower Studio**
 - 🔥 Solved **400+ LeetCode Problems**
 - 🌱 Learning **System Design & Microservices**
 - 💡 Passionate about Backend Development
